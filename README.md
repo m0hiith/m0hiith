@@ -30,7 +30,6 @@
 const mohith = {
   role:        "Full-Stack + AI Engineer · Embedded IoT Builder",
   base:        "India 🇮🇳",
-  building:    ["TalentSia — AI career platform", "BLOOM — AI trading terminal", "TwinDock — warehouse digital twin"],
   stack:       ["TypeScript", "Python", "Next.js", "Supabase", "FastAPI", "PyTorch", "ESP32 / SiWx917"],
   aiTools:     ["Claude", "Gemini", "Hugging Face", "Agents & MCP"],
   shipsTo:     ["Vercel", "Render", "Hugging Face Spaces"],
