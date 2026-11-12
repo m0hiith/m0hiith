@@ -1,19 +1,19 @@
 <!-- ═══════════════════════  HEADER  ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7f00ff,100:00d4ff&height=220&section=header&text=Hey,%20I'm%20Mohith%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20•%20AI%20•%20Embedded%20IoT&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0066ff,100:00d4ff&height=220&section=header&text=Hey,%20I'm%20Mohith%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20•%20AI%20•%20Embedded%20IoT&descAlignY=58&descSize=20" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://mohith.site">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=A855F7&center=true&vCenter=true&multiline=false&width=640&height=50&lines=🚀+I+build+products+that+actually+ship;🤖+AI+agents+%E2%80%A2+LLM+apps+%E2%80%A2+Claude+%2B+Gemini;⚡+Next.js+%E2%80%A2+React+%E2%80%A2+Supabase+%E2%80%A2+FastAPI;🔌+ESP32+%E2%80%A2+Silicon+Labs+SiWx917+%E2%80%A2+MQTT;📈+Algo+trading+terminals+%26+bots;🌐+mohith.site" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=3B82F6&center=true&vCenter=true&multiline=false&width=640&height=50&lines=🚀+I+build+products+that+actually+ship;🤖+AI+agents+%E2%80%A2+LLM+apps+%E2%80%A2+Claude+%2B+Gemini;⚡+Next.js+%E2%80%A2+React+%E2%80%A2+Supabase+%E2%80%A2+FastAPI;🔌+ESP32+%E2%80%A2+Silicon+Labs+SiWx917+%E2%80%A2+MQTT;📈+Algo+trading+terminals+%26+bots;🌐+mohith.site" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://mohith.site"><img src="https://img.shields.io/badge/🌐_Portfolio-mohith.site-7f00ff?style=for-the-badge&labelColor=0f0c29" /></a>
-  <a href="mailto:info@tptmediahouse.com"><img src="https://img.shields.io/badge/✉️_Email-Say_Hi-00d4ff?style=for-the-badge&labelColor=0f0c29" /></a>
-  <a href="https://huggingface.co/m0hiith"><img src="https://img.shields.io/badge/🤗_HuggingFace-m0hiith-FFD21E?style=for-the-badge&labelColor=0f0c29" /></a>
-  <img src="https://komarev.com/ghpvc/?username=m0hiith&style=for-the-badge&color=a855f7&label=👀+PROFILE+VIEWS" />
+  <a href="https://mohith.site"><img src="https://img.shields.io/badge/🌐_Portfolio-mohith.site-0066ff?style=for-the-badge&labelColor=0a192f" /></a>
+  <a href="mailto:info@tptmediahouse.com"><img src="https://img.shields.io/badge/✉️_Email-Say_Hi-00d4ff?style=for-the-badge&labelColor=0a192f" /></a>
+  <a href="https://huggingface.co/m0hiith"><img src="https://img.shields.io/badge/🤗_HuggingFace-m0hiith-FFD21E?style=for-the-badge&labelColor=0a192f" /></a>
+  <img src="https://komarev.com/ghpvc/?username=m0hiith&style=for-the-badge&color=3b82f6&label=👀+PROFILE+VIEWS" />
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ const mohith = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
   <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
