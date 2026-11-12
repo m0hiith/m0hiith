@@ -216,20 +216,21 @@ Real-time webcam object detection with Ultralytics YOLO.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=m0hiith&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a855f7&icon_color=00d4ff&text_color=ffffff&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hiith&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a855f7&text_color=ffffff" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=m0hiith&theme=tokyonight&hide_border=true&background=0f0c29&ring=a855f7&fire=00d4ff&currStreakLabel=a855f7&sideLabels=ffffff&dates=9ca3af" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m0hiith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m0hiith&bg_color=0f0c29&color=a855f7&line=00d4ff&point=ffffff&area=true&area_color=7f00ff&hide_border=true&custom_title=⚡%20Commit%20Activity" />
 </p>
 
 <!-- ═══════════════════════  SNAKE  ═══════════════════════ -->
